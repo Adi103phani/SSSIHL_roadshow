@@ -1,6 +1,8 @@
 # SSSIHL_roadshow
 
 # Main Code:
+
+```c
 #include<stdio.h>
 
 int main(){ 
@@ -18,7 +20,7 @@ sum = sum + i;
 }
 
 printf("The Sum of numbers from 1 to %d is %d\n",n,sum); return 0; }
-
+```
 
 
 ![image](https://github.com/user-attachments/assets/9e07b023-8c72-49d4-aad7-b3d894701511)
