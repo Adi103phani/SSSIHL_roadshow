@@ -46,6 +46,8 @@ printf("The Sum of numbers from 1 to %d is %d\n",n,sum); return 0; }
 
 ![image](https://github.com/user-attachments/assets/7beb821c-6b10-4cfc-af63-0aa7ac7b7cd7)
 
+![16](https://github.com/user-attachments/assets/6f5eda50-b41a-41b8-83ba-8348dbf265ab)
+
 
 
 
