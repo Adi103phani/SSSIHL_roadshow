@@ -98,6 +98,9 @@ void HardFault_Handler(void)
     }
 }
 
+
+
+
 # FADING LED
 
 This project demonstrates how to generate a PWM signal using TIM2 in STM32.
