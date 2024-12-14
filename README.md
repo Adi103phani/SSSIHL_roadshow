@@ -104,8 +104,7 @@ This project demonstrates how to generate a PWM signal using TIM2 in STM32.
 
 ## Code
 
-```c
-#include "debug.h"
+#include "debug.h" 
 #define TIME_PERIOD 1000
 #define PRESC       0
 #define PULSE       632
@@ -157,9 +156,6 @@ int main(void)
         Delay_Ms(15);
     }
 }
-
-
-    
 
 
 
