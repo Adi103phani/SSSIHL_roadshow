@@ -92,9 +92,7 @@ int main(void)
 
     uint8_t ledState = 0;
     
-    while (1)
-    
-    {
+    while (1){
     
         GPIO_WriteBit(BLINKY_GPIO_PORT, BLINKY_GPIO_PIN, ledState);
         
@@ -109,13 +107,9 @@ int main(void)
 
 void NMI_Handler(void) {}
 
-void HardFault_Handler(void)
+void HardFault_Handler(void){
 
-{
-
-    while (1)
-    
-    {
+    while (1){
     
     }
 
