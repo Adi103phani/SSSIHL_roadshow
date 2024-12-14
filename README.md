@@ -99,7 +99,13 @@ void HardFault_Handler(void)
 }
 ```
 
+# My Project
 
+## First Code - Blinky LED
+
+This is the code for the first project that blinks an LED:
+
+```c
 #include "debug.h" 
 #define TIME_PERIOD 1000
 #define PRESC       0
@@ -152,3 +158,4 @@ int main(void)
         Delay_Ms(15);
     }
 }
+```
