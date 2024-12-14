@@ -68,9 +68,7 @@ void Delay_Init(void);
 
 void Delay_Ms(uint32_t n);
 
-int main(void)
-
-{
+int main(void){
 
     NVIC_PriorityGroupConfig(NVIC_PriorityGroup_1);
     
