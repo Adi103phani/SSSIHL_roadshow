@@ -48,11 +48,11 @@ printf("The Sum of numbers from 1 to %d is %d\n",n,sum); return 0; }
 
 ![16](https://github.com/user-attachments/assets/6f5eda50-b41a-41b8-83ba-8348dbf265ab)
 
-# BLINK LED
+# My Project
 
-This project demonstrates how to control an LED with a microcontroller. Below is the code for blinking the LED.
+## First Project - Blinky LED Code
 
-## Code
+This is the code for the first project which blinks an LED:
 
 ```c
 #include <ch32v00x.h>
@@ -98,14 +98,6 @@ void HardFault_Handler(void)
     }
 }
 
-
-
-
-# FADING LED
-
-This project demonstrates how to generate a PWM signal using TIM2 in STM32.
-
-## Code
 
 #include "debug.h" 
 #define TIME_PERIOD 1000
@@ -159,14 +151,3 @@ int main(void)
         Delay_Ms(15);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
