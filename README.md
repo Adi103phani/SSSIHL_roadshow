@@ -50,9 +50,9 @@ printf("The Sum of numbers from 1 to %d is %d\n",n,sum); return 0; }
 
 # My Project
 
-## First Project - Blinky LED Code
+## First Code - Blinky LED
 
-This is the code for the first project which blinks an LED:
+This is the code for the first project that blinks an LED:
 
 ```c
 #include <ch32v00x.h>
@@ -97,6 +97,7 @@ void HardFault_Handler(void)
     {
     }
 }
+
 
 
 #include "debug.h" 
