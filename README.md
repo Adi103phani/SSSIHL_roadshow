@@ -53,6 +53,8 @@ run_cts
 
 run_routing
 
+# Snapshots regarding the above commands:
+
 ![image](https://github.com/user-attachments/assets/9e07b023-8c72-49d4-aad7-b3d894701511)
 
 ![image](https://github.com/user-attachments/assets/131beb05-5139-47e7-89f4-09123ba0e422)
